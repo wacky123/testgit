@@ -6,4 +6,8 @@
 0000000000000
 8888888-fenzhi1
 999999-fenzhi1
+<<<<<<< Updated upstream
 404
+=======
+bug
+>>>>>>> Stashed changes
